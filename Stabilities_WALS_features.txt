@@ -1,0 +1,135 @@
+feature_ID	feature_description	stability	quartile
+1	Consonant Inventories	14.7	very unstable
+2	Vowel Quality Inventories	32	unstable
+3	Consonant-Vowel Ratio	19.2	very unstable
+4	Voicing in Plosives and Fricatives	22	very unstable
+5	Voicing and Gaps in Plosive Systems	28.1	unstable
+6	Uvular Consonants	38	stable
+7	Glottalized Consonants	43	stable
+8	Lateral Consonants	31.3	unstable
+9	The Velar Nasal	54.6	very stable
+10	Vowel Nasalization	57	very stable
+11	Front Rounded Vowels	11.6	very unstable
+12	Syllable Structure	24.2	unstable
+13	Tone	48.3	stable
+14	Fixed Stress Locations	26.1	unstable
+15	Weight-Sensitive Stress	15.6	very unstable
+16	Weight Factors in Weight-Sensitive Stress Systems	10.9	very unstable
+17	Rhythm Types	22.7	unstable
+18	Absence of Common Consonants	55.3	very stable
+19	Presence of Uncommon Consonants	17.3	very unstable
+20	Fusion of Selected Inflectional Formatives	32.9	unstable
+21	Exponence of Selected Inflectional Formatives	55.1	very stable
+22	Inflectional Synthesis of the Verb	12.1	very unstable
+23	Locus of Marking in the Clause	27.5	unstable
+24	Locus of Marking in Possessive Noun Phrases	26.2	unstable
+25	Locus of Marking: Whole-language Typology	36.6	stable
+26	Prefixing vs. Suffixing in Inflectional Morphology	41.5	stable
+27	Reduplication	36.2	stable
+28	Case Syncretism	67.4	very stable
+29	Syncretism in Verbal Person/Number Marking	70.8	very stable
+30	Number of Genders	72.9	very stable
+31	Sex-based and Non-sex-based Gender Systems	80.8	very stable
+32	Systems of Gender Assignment	66.9	very stable
+33	Coding of Nominal Plurality	41.3	stable
+34	Occurrence of Nominal Plurality	9.8	very unstable
+35	Plurality in Independent Personal Pronouns	31.8	unstable
+36	The Associative Plural	28	unstable
+37	Definite Articles	15.9	very unstable
+38	Indefinite Articles	17.2	very unstable
+39	Inclusive/Exclusive Distinction in Independent Pronouns	64.6	very stable
+40	Inclusive/Exclusive Distinction in Verbal Inflection	65	very stable
+41	Distance Contrasts in Demonstratives	15.5	very unstable
+42	Pronominal and Adnominal Demonstratives	51.7	very stable
+43	Third Person Pronouns and Demonstratives	27.8	unstable
+44	Gender Distinctions in Independent Personal Pronouns	50.6	very stable
+45	Politeness Distinctions in Pronouns	15.4	very unstable
+46	Indefinite Pronouns	35.1	stable
+47	Intensifiers and Reflexive Pronouns	56.8	very stable
+48	Person Marking on Adpositions	40.6	stable
+49	Number of Cases	39	stable
+50	Asymmetrical Case-Marking	47.7	stable
+51	Position of Case Affixes	46.7	stable
+52	Comitatives and Instrumentals	18.8	very unstable
+53	Ordinal Numerals	38.9	stable
+54	Distributive Numerals	44.5	stable
+55	Numeral Classifiers	38.7	stable
+56	Conjunctions and Universal Quantifiers	27.3	unstable
+57	Position of Pronominal Possessive Affixes	55	very stable
+58	Obligatory Possessive Inflection	-24.9	very unstable
+59	Possessive Classification	1.4	very unstable
+60	Genitives, Adjectives and Relative Clauses	10.2	very unstable
+61	Adjectives without Nouns	54.2	very stable
+62	Action Nominal Constructions	42.1	stable
+63	Noun Phrase Conjunction	54.3	very stable
+64	Nominal and Verbal Conjunction	20.6	very unstable
+65	Perfective/Imperfective Aspect	36	stable
+66	The Past Tense	52.4	very stable
+67	The Future Tense	26.9	unstable
+68	The Perfect	22.6	unstable
+69	Position of Tense-Aspect Affixes	47.3	stable
+70	The Morphological Imperative	26.1	unstable
+71	The Prohibitive	24.2	unstable
+72	Imperative-Hortative Systems	18.8	very unstable
+73	The Optative	56.7	very stable
+74	Situational Possibility	30.3	unstable
+75	Epistemic Possibility	28.5	unstable
+76	Overlap between Situational and Epistemic Modal Marking	7.9	very unstable
+77	Semantic Distinctions of Evidentiality	28.7	unstable
+78	Coding of Evidentiality	21.4	very unstable
+79	Suppletion According to Tense and Aspect	52.4	very stable
+80	Verbal Number and Suppletion	40.8	stable
+81	Order of Subject, Object and Verb	53.3	very stable
+82	Order of Subject and Verb	35.7	stable
+83	Order of Object and Verb	66.8	very stable
+84	Order of Object, Oblique, and Verb	55.1	very stable
+85	Order of Adposition and Noun Phrase	70.8	very stable
+86	Order of Genitive and Noun	65.3	very stable
+87	Order of Adjective and Noun	50.6	very stable
+88	Order of Demonstrative and Noun	42.4	stable
+89	Order of Numeral and Noun	54.9	very stable
+90	Order of Relative Clause and Noun	54.5	very stable
+91	Order of Degree Word and Adjective	32.7	unstable
+92	Position of Polar Question Particles	24.3	unstable
+93	Position of Interrogative Phrases in Content Questions	42.3	stable
+94	Order of Adverbial Subordinator and Clause	44.5	stable
+98	Alignment of Case Marking of Full Noun Phrases	46.7	stable
+99	Alignment of Case Marking of Pronouns	51.1	very stable
+100	Alignment of Verbal Person Marking	34.1	stable
+101	Expression of Pronominal Subjects	29.6	unstable
+102	Verbal Person Marking	19.3	very unstable
+103	Third Person Zero of Verbal Person Marking	25.3	unstable
+104	Order of Person Markers on the Verb	37.2	stable
+105	Ditransitive Constructions: The Verb 'Give'	19.5	very unstable
+106	Reciprocal Constructions	21.5	very unstable
+107	Passive Constructions	28.3	unstable
+108	Antipassive Constructions	21.8	very unstable
+109	Applicative Constructions	36	stable
+110	Periphrastic Causative Constructions	15.3	very unstable
+111	Nonperiphrastic Causative Constructions	47.8	stable
+112	Negative Morphemes	27.1	unstable
+113	Symmetric and Asymmetric Standard Negation	24.1	unstable
+114	Subtypes of Asymmetric Standard Negation	31	unstable
+115	Negative Indefinite Pronouns and Predicate Negation	6.9	very unstable
+116	Polar Questions	24.3	unstable
+117	Predicative Possession	34.9	stable
+118	Predicative Adjectives	74.3	very stable
+119	Nominal and Locational Predication	70.9	very stable
+120	Zero Copula for Predicate Nominals	28.4	unstable
+121	Comparative Constructions	56	very stable
+122	Relativization on Subjects	44.3	stable
+123	Relativization on Obliques	37.8	stable
+124	'Want' Complement Subjects	28.4	unstable
+125	Purpose Clauses	48.3	stable
+126	'When' Clauses	31.2	unstable
+127	Reason Clauses	45.9	stable
+128	Utterance Complement Clauses	7.3	very unstable
+129	Hand and Arm	41.4	stable
+130	Finger and Hand	32.7	unstable
+131	Numeral Bases	23.5	unstable
+132	Number of Non-Derived Basic Colour Categories	16	very unstable
+133	Number of Basic Colour Categories	9.2	very unstable
+134	Green and Blue	30.4	unstable
+135	Red and Yellow	-6.7	very unstable
+136	M-T Pronouns	19.9	very unstable
+137	N-M Pronouns	53.9	very stable
